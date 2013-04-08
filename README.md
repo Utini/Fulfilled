@@ -10,7 +10,7 @@ Structure:
 
 Example:
 =
-  Carbrands
+  carbrands.json
   
   
 ````json
